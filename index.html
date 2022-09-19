@@ -164,7 +164,7 @@
             var template = $('#booktpl').html(),
                 issuesWrap = $('#issueswrap');
 
-          //  data.books.sort(randOrd);
+            data.books.sort(randOrd);
             issuesWrap.html(Mustache.to_html(template, data));
 
             filterBy();
