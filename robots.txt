@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hosamanushya.sanchaya.net/sitemap.xml
